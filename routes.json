@@ -1,0 +1,16 @@
+{
+    "/": {
+        "endpoint": "home.index",
+        "methods": ["GET"]
+    },
+
+    "/about": {
+        "endpoint": "content.about",
+        "methods": ["GET"]
+    },
+
+    "/contact": {
+        "endpoint": "contact.display",
+        "methods": ["GET"]
+    }
+}
